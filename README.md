@@ -12,7 +12,7 @@
   </a>  
 </p>
 
-<a href="https://telegram.dog/i8_88"><img src="https://img.shields.io/badge/Telegram-Ch-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/qtqqqt"><img src="https://img.shields.io/badge/Telegram-Ch-blue.svg?logo=telegram"></a>
 [![Protection Source Telegram!](https://badgen.net/badge/Protection%20Source/Telegram/blue?icon=github)](https://github.com/iq0abs/ProxMusic)
 [![Ask Me Anything!](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/i8_88)
 
